@@ -1,0 +1,4 @@
+{"clients": 
+[{"client_id": 1, "name": "Tom Cruise", "dob": "1962-07-03", "balance": 10000}, 
+{"client_id": 2, "name": "Igor", "dob": "1980-04-01", "balance": 14}, 
+{"client_id": 3, "name": "Nizar", "dob": "1996-06-27", "balance": 50000000000000.0}]}
